@@ -6,7 +6,7 @@ nav {
     background-color: darkgray; 
     overflow: hidden;
     display: flex;
-    padding: 25px;
+    padding: 2em;
     border-radius: 2em;
     justify-content: right;
     
@@ -85,15 +85,15 @@ div img {
     margin-left: 1em;
     margin-bottom: 3em;
 }
-.afleveringen {
+.ons {
     display: flex;
     align-items:left
 
 }
-.afleveringen img {
+.ons img {
     margin-right: 4em;
 }
-.afleveringen h2 {
+.ons h2 {
     display: flex;
 }
 footer p {
